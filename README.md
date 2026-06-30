@@ -2,7 +2,7 @@
 
 AI Powered Daily Task is a modern, stylish to-do planner built with React and Vite. It helps users organize their day with smart task suggestions, time-based planning, and a polished dark UI.
 
-Live Demo: ai-powered-daily-task.vercel.app
+Live Demo: [ai-powered-daily-task.vercel.app](https://ai-powered-daily-task.vercel.app/)
 
 ## Features
 
